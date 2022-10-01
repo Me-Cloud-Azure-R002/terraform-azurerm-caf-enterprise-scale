@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../../ATPractice0002/azure-aks-kubernetes-masterclass"
+		},
+		{
+			"path": "../../ATPractice0001/Azure/aks-secure-baseline"
 		}
 	],
 	"settings": {}
