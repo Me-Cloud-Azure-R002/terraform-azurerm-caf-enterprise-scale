@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../ATPractice0002/azure-aks-kubernetes-masterclass"
+		}
+	],
+	"settings": {}
+}
