@@ -4,7 +4,7 @@ mkdir -p .output/
 mkdir -p .output/backups/
 
 # Archive the existing output files
-mv .output/* --target-directory .output/backups/
+mv .output/*.* --target-directory .output/backups/
 
 mydatetimenow=$(date  -u +"%Y-%m-%dT%H:%M:%S")
 printf "INITIATED **** PLAN : $mydatetimenow \n \n \n"

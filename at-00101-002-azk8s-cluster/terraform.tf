@@ -17,4 +17,12 @@ terraform {
 
 provider "azurerm" {
   features {}
+
+# {
+#   "appId": "3f03851b-75ed-49e4-a130-d078510c099b",
+#   "displayName": "sp-at002-app001-contributor",
+#   "password": "A178Q~Ydyb2TzrWWLLSnn84XjIzKKZwtecDFqaz9",
+#   "tenant": "87c1b7a7-4e0e-4afe-9593-8cbfdcc8eb61"
+# }
+
 }
